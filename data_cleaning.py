@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  4 17:27:06 2020
-
-@author: Ken
-"""
-
 import pandas as pd 
 
 df = pd.read_csv('glassdoor_jobs.csv')
